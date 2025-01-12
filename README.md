@@ -19,3 +19,5 @@ If it returns with something like:
 ```
 or similar. Then python is already installed. If it does not return with this command, you can install python from your distributions package manager, or build from source.
 
+Afterwards just run main.py and do the quiz!
+
