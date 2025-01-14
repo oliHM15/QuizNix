@@ -18,6 +18,20 @@ If it returns with something like:
 # Python 3.10.12
 ```
 or similar. Then python is already installed. If it does not return with this command, you can install python from your distributions package manager, or build from source.
-
-Afterwards just run main.py and do the quiz!
+You will also need tkinter to run the GUI. to install on a debian based system (mint, Pop_OS!) it just run:
+```bash
+# sudo apt install python3-tk
+```
+Afterwards just run main.py
+```bash
+# cd Downloads
+```
+(or wherever you extracted the program)
+```bash
+# cd QuizNix-main
+```
+```bash
+# python3 main.py
+```
+and do the quiz!
 
